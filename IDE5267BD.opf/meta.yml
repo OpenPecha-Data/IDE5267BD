@@ -1,0 +1,40 @@
+id: IDE5267BD
+source: https://sakyaresearch.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-19T13:19:18.328078'
+last_modified: '2022-06-19T13:19:18.328110'
+parser: null
+source_metadata:
+  title: Hagiography of Bla ma dam pa bSod nams rgyal mtshan (1312–1375); Lamdre Lobshe,
+    vol. ka, title no. 18, from the chronological biographies of the Lamdre lineage
+    masters
+  author: དཔལ་ལྡན་ཚུལ་ཁྲིམས།
+  description: 'Digital version 2.0 {Tibetan}; master xml (completed: 2013-08-19);
+    converted from external file, unrevised, spell-checked, thematic TEI markup'
+  file_info:
+  - 'Language: Tibetan'
+  - 'Coverage: Full Text'
+  - 'Accessible: publicly'
+  responibilities:
+  - Digital edition:ས་སྐྱ་ཞིབ་འཇུག་ཁང་། (src)
+  - Text input:རྫོང་སར་ཁམས་བྱེའི་ལྔ་རིག་སློབ་གླིང་། སྡེ་དགེ་རྫོང་སར། (dzkj)
+  - Editorial process:Mathias Fermer (mf), Kunga Dorje (kun)
+  - TEI Encoding:ས་སྐྱ་ཞིབ་འཇུག་ཁང་།
+  - TEI Markup:Mathias Fermer (mf)
+  - Revisions/Corrections:-
+  text_witnesses: https://sakyaresearch.org/sources/370
+  bases:
+    b82a:
+      title: Hagiography of Bla ma dam pa bSod nams rgyal mtshan (1312–1375); Lamdre
+        Lobshe, vol. ka, title no. 18, from the chronological biographies of the Lamdre
+        lineage masters
+      order: 1
+      base_file: b82a.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
